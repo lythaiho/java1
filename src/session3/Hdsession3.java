@@ -50,9 +50,6 @@ public class Hdsession3 {
         System.out.println("So sanh");
         System.out.println("SS2 name" + ss2.getName());
         System.out.println("SS3 name" + ss3.getName());
-        System.out.println("So sanh");
-        System.out.println("SS2 name" + ss2.getAge());
-        System.out.println("SS3 name" + ss3.getAge());
     }
 //    public  static void sayHello(){
 //        Hdsession3 ss4= new Hdsession3();
