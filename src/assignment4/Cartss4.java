@@ -6,7 +6,7 @@ public class Cartss4 {
     private int id;
     private String customer;
     private int grandTotal;
-    private ArrayList<Product4> productList;
+    public ArrayList<Product4> productList;
     private String city;
 
     public Cartss4(){
