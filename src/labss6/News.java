@@ -3,11 +3,11 @@ package labss6;
 import java.util.ArrayList;
 
 public class News implements INews {
-    int ID;
-    String Title;
-    String PublishDate;
-    String Author;
-    String Content;
+    public int ID;
+    public String Title;
+    public String PublishDate;
+    public String Author;
+    public String Content;
 
     public News(){
 
