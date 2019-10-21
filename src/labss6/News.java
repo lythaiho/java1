@@ -22,7 +22,7 @@ public class News implements INews {
         AverageRate = averageRate;
     }
 
-    float AverageRate;
+    public float AverageRate;
 
     public float getAverageRate() {
         return AverageRate;
